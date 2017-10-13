@@ -21,5 +21,5 @@ page displayed in the desktop browser.
 To run loopback test execute following command:
 adb shell am start -n org.appspot.apprtc/.ConnectActivity -a android.intent.action.VIEW --ez "org.appspot.apprtc.LOOPBACK" true  
 
-webrtc的commitid e173802797ddeb15364a8241fc51121c3192fefd
+# webrtc的commitid e173802797ddeb15364a8241fc51121c3192fefd
 
